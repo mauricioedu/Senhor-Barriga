@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Senhor Barriga</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista_cliente">Lista Cliente</string>
+    <string name="busca">Buscar Cliente..</string>
+    <string name="title_activity_cadastro_cliente">Cadastro Cliente</string>
+    <string name="nome">Nome:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="email">Email:</string>
+    <string name="valor">Valor:</string>
+    <string name="valorDividido">Dividir:</string>
+    <string name="salvar">Salvar</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

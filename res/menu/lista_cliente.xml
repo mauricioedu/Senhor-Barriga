@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.mauricioeduardo.senhorbarriga.ListaCliente" >
+
+     <item
+        android:id="@+id/novo"
+        android:showAsAction="always"
+        android:icon="@drawable/botaoadd"
+        android:title="Novo"
+       />
+
+</menu>
